@@ -16,12 +16,12 @@
 
  Información mostrada:
  
- .Rank
- .Title
- .Crew
- .Image
- .Year
- .ImDbRating
+ - Rank
+ - Title
+ - Crew
+ - Image
+ - Year
+ - ImDbRating
  
  como punto extra se agregó la modal del trailer de la película. 
 

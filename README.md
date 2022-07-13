@@ -47,7 +47,6 @@ Para levantar el proyecto deberás correr el comando yarn start
 
 ![Screenshot](https://i.ibb.co/rFz1F2s/Captura.png)
 
-![Screenshot](https://i.ibb.co/jvSQBnr/Captura.png)
 
 <!-- DOCS-IGNORE:start -->
 

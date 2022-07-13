@@ -24,7 +24,7 @@ Correr el comando yarn start
 
 ## Screenshots 📸
 
-![Screenshot]([https://i.ibb.co/PzbY9gb/Captura.png](https://i.ibb.co/0mfP6Ny/Captura.png))
+![Screenshot](https://i.ibb.co/0mfP6Ny/Captura.png)
 
 
 

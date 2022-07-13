@@ -8,7 +8,11 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Este proyecto fue creado con la tecnología React en su versión 17.0.2
+- Este proyecto fue creado con la tecnología React en su versión 17.0.2
+- Se utilizó una arquitectura simple al ser un proyecto pequeño.
+- Como framework css se aplicó Material ui.
+- Se uso de typescript.
+- Aplicación de test unitario para el hook que hará el llamado a la api.
 
 ## Configuration
 
@@ -24,9 +28,13 @@ Para levantar el proyecto deberás correr el comando yarn start
 
 ![Screenshot](https://i.ibb.co/0mfP6Ny/Captura.png)
 
-### Estructura del proyecto:
+### Estructura de carpetas:
 
 ![Screenshot](https://i.ibb.co/LNBhNJd/Captura.png)
+
+### Test del Hooks useMovies:
+
+![Screenshot](https://i.ibb.co/rFz1F2s/Captura.png)
 
 
 <!-- DOCS-IGNORE:start -->
@@ -36,6 +44,7 @@ Para levantar el proyecto deberás correr el comando yarn start
 Thanks goes to these wonderful people:
 
 -Javier Ponte
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->

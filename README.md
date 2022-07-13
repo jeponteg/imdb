@@ -11,10 +11,10 @@
 - Este proyecto fue creado con la tecnología React en su versión 17.0.2
 - Se utilizó una arquitectura simple al ser un proyecto pequeño.
 - Como framework css se aplicó Material ui.
-- Se uso de typescript.
-- Aplicación de test unitario para el hook que hará el llamado a la api.
+- Los componentes estan en base a typeScript haciendo uso de los contratos de datos conocidos como interfaces.
+- Se aplicó un test unitario para el hook que hará el llamado a la api.
 
-## Configuration
+## Configuración
 
 ### Paso 1 - Configuración del proyecto
 

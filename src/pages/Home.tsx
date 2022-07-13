@@ -5,7 +5,6 @@ import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import Pagination from '../components/Pagination';
 import Skelet from '../components/Skeleton';
-//import value from '../utils/data.json'
 
 const Home:FC = () => {
 

@@ -41,8 +41,6 @@ Para levantar el proyecto deberás correr el comando yarn start
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people:
-
 -Javier Ponte
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->

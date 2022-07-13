@@ -14,6 +14,17 @@
 - Los componentes estan en base a typeScript haciendo uso de los contratos de datos conocidos como interfaces.
 - Se aplicó un test unitario para el hook que hará el llamado a la api.
 
+ Información mostrada:
+ 
+ .Rank
+ .Title
+ .Crew
+ .Image
+ .Year
+ .ImDbRating
+ 
+ como punto extra se agregó la modal del trailer de la película. 
+
 ## Configuración
 
 ### Paso 1 - Configuración del proyecto
@@ -36,6 +47,7 @@ Para levantar el proyecto deberás correr el comando yarn start
 
 ![Screenshot](https://i.ibb.co/rFz1F2s/Captura.png)
 
+![Screenshot](https://i.ibb.co/jvSQBnr/Captura.png)
 
 <!-- DOCS-IGNORE:start -->
 

@@ -14,18 +14,19 @@ Este proyecto fue creado con la tecnología React en su versión 17.0.2
 
 ### Paso 1 - Configuración del proyecto
 
-Clonar el proyecto:
-
-Para instalar las librerías debes correr en la carpeta raíz el comando yarn install
+Clonar el proyecto y correr el comando yarn install en la carpeta raiz.
 
 ### Paso 2 - Levantamiento del proyecto
 
-Correr el comando yarn start
+Para levantar el proyecto deberás correr el comando yarn start
 
 ## Screenshots 📸
 
 ![Screenshot](https://i.ibb.co/0mfP6Ny/Captura.png)
 
+### Estructura del proyecto:
+
+![Screenshot](https://i.ibb.co/LNBhNJd/Captura.png)
 
 
 <!-- DOCS-IGNORE:start -->
